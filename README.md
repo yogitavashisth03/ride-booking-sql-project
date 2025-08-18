@@ -7,7 +7,7 @@ It provides insights into customer behavior, cancellations, revenue, and operati
 
 ## 📂 Project Files
 - `ncr_ride_booking_sql_project.sql` → SQL queries covering ride trends, cancellations, customer insights, and revenues.
-- *(Optional)* Power BI report to visualize the same analysis (coming soon).
+-  Power BI report to visualize the same analysis (coming soon).
 
 ---
 
@@ -43,7 +43,7 @@ It provides insights into customer behavior, cancellations, revenue, and operati
 
 ## 🛠 Tech Stack
 - SQL (PostgreSQL/MySQL compatible)
-- *(Optional upcoming)* Power BI
+- Power BI
 
 ---
 
