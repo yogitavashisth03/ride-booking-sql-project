@@ -47,7 +47,7 @@ It provides insights into customer behavior, cancellations, revenue, and operati
 
 ---
 
-##📊 Dashboard Added
+## 📊 Dashboard Added
 
 An interactive dashboard has been added to provide visual insights into NCR Ride Bookings data.
 Key features:
