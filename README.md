@@ -47,6 +47,22 @@ It provides insights into customer behavior, cancellations, revenue, and operati
 
 ---
 
+##📊 Dashboard Added
+
+An interactive dashboard has been added to provide visual insights into NCR Ride Bookings data.
+Key features:
+
+-Vehicle-based ride trends
+
+-Peak booking hours
+
+-Ride completion/incompletion stats
+
+-Revenue Insights
+
+You can view or run the dashboard in the file:
+NCR_Ride_Booking_Dashboard.ipynb
+
 ## 👤 Author
 - **Yogita**  
 MSc Mathematics (Hons) | Data Enthusiast | Power BI & SQL Projects
